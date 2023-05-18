@@ -1,7 +1,6 @@
 ### Hi there 👋
  
- bom eu me chamo robert, atualmente estou aprendendo a criar projetos com html, ccs e começando o aprendizado de javascrippt.
- nessa caminhada espero conquistar grandes feitos e continuar batalhando para melhorar meus desenvolvimentos tecnologicos.
+Bom eu sou o robert tenho 18 de idade,atualmente estou trabalhando como free-lancer fazendo diversos projetos, Ultimamente eu tenho estudado programação com o intuito de melhorar meus conhecimentos técnicos, para que eu posso estar atuando na área que eu amo e me apaixonei cada dia que passa eu me apaixono mais, estou em busca da minha primeira oportunidade para que eu possa provar o meu valor. atualmente as tecnologias mais utilizadas são html,css,javascript, nodejs
  <br>
  <br>
  
