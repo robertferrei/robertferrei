@@ -1,6 +1,8 @@
 ### Hi there 👋
  
-Bom eu sou o robert tenho 18 de idade,atualmente estou trabalhando como free-lancer fazendo diversos projetos, Ultimamente eu tenho estudado programação com o intuito de melhorar meus conhecimentos técnicos, para que eu posso estar atuando na área que eu amo e me apaixonei cada dia que passa eu me apaixono mais, estou em busca da minha primeira oportunidade para que eu possa provar o meu valor. atualmente as tecnologias mais utilizadas são html,css,javascript, nodejs
+Meu nome é Robert e tenho 18 anos. Atualmente, estou trabalhando como freelancer, onde tenho a oportunidade de realizar diversos projetos. Neste momento, estou focado em estudar programação para aprimorar meus conhecimentos técnicos. A paixão que sinto por essa área cresce a cada dia.
+
+Estou determinado a encontrar minha primeira oportunidade profissional para demonstrar minhas habilidades e dedicação. Estou ansioso para ingressar no campo que amo e me apaixonei desde que comecei a estudar programação. Busco constantemente ampliar meus conhecimentos e aplicá-los de maneira prática em projetos desafiadore
  <br>
  <br>
  
