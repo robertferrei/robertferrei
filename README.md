@@ -18,4 +18,19 @@ Meu nome é Robert e tenho 18 anos. Atualmente, estou trabalhando como freelance
 ---
 [![](https://visitcount.itsvg.in/api?id=robertferrei&icon=2&color=1)](https://visitcount.itsvg.in)
 
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ https://instagram.com/robert_frontdeveloper?igshid=ZDc4ODBmNjlmNQ==) 
+
+# 💻 Tech Stack:
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=robertferrei&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=robertferrei&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=robertferrei&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=robertferrei&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
