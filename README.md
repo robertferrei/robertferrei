@@ -1,5 +1,9 @@
  # 💫 About Me:
-Meu nome é Robert e tenho 18 anos. Atualmente, estou trabalhando como freelancer, onde tenho a oportunidade de realizar diversos projetos. Neste momento, estou focado em estudar programação para aprimorar meus conhecimentos técnicos. A paixão que sinto por essa área cresce a cada dia.<br><br>Estou determinado a encontrar minha primeira oportunidade profissional para demonstrar minhas habilidades e dedicação. Estou ansioso para ingressar no campo que amo e me apaixonei desde que comecei a estudar programação. Busco constantemente ampliar meus conhecimentos e aplicá-los de maneira prática em projetos desafiadores.<br>
+Olá, sou o Robert, tenho 18 anos e atualmente trabalho como freelancer, o que me proporciona a oportunidade de me envolver em uma variedade de projetos interessantes. Meu foco atual está na expansão dos meus conhecimentos em programação, uma paixão que cresce a cada dia.
+
+Estou determinado a encontrar minha primeira oportunidade profissional para demonstrar minhas habilidades e dedicação. Desde que comecei a estudar programação, me apaixonei por essa área e estou ansioso para ingressar nesse campo que tanto amo.
+
+Além disso, estou empolgado em compartilhar que também atuo como desenvolvedor Back-End na CSM Betha, onde continuo a aprimorar minhas habilidades e contribuir para projetos desafiadores. Estou sempre em busca de novos conhecimentos e oportunidades para aplicar meu aprendizado de forma prática.<br>
 
 
 ## 🌐 Socials:
