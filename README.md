@@ -1,5 +1,5 @@
  # 💫 About Me:
-Olá, sou o Robert, tenho 18 anos e atualmente trabalho como freelancer, o que me proporciona a oportunidade de me envolver em uma variedade de projetos interessantes. Meu foco atual está na expansão dos meus conhecimentos em programação, uma paixão que cresce a cada dia.
+Olá, sou o Robert, tenho 19 anos e atualmente trabalho como freelancer, o que me proporciona a oportunidade de me envolver em uma variedade de projetos interessantes. Meu foco atual está na expansão dos meus conhecimentos em programação, uma paixão que cresce a cada dia.
 
 
 
