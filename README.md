@@ -1,29 +1,55 @@
- # 💫 About Me:
-Olá, sou o Robert, tenho 19 anos e atualmente trabalho como freelancer, o que me proporciona a oportunidade de me envolver em uma variedade de projetos interessantes. Meu foco atual está na expansão dos meus conhecimentos em programação, uma paixão que cresce a cada dia.
 
+<p align="left"> 
+ Olá! Eu sou Robert, tenho 19 anos e trabalho como freelancer, o que me permite mergulhar em uma variedade de projetos emocionantes e desafiadores. Meu foco atual está no desenvolvimento das minhas habilidades em programação, uma paixão que cresce a cada dia e me motiva a buscar novas aprendizagens constantemente.
 
+Além disso, tenho o prazer de atuar como desenvolvedor Back-End na CSM Betha, onde contribuo para projetos inovadores e continuo a aperfeiçoar minhas competências técnicas. Esta experiência me proporciona um ambiente estimulante para aplicar e expandir meu conhecimento em tempo real.
 
-Além disso, estou empolgado em compartilhar que também atuo como desenvolvedor Back-End na CSM Betha, onde continuo a aprimorar minhas habilidades e contribuir para projetos desafiadores. Estou sempre em busca de novos conhecimentos e oportunidades para aplicar meu aprendizado de forma prática.<br>
+Sou movido pela curiosidade e pelo desejo de evoluir continuamente, sempre explorando novas tecnologias e metodologias. Meu objetivo é integrar o aprendizado teórico com a prática, enfrentando desafios que me permitam crescer profissional e pessoalmente.
 
+Estou sempre aberto a novas oportunidades e colaborações que possam me ajudar a desenvolver ainda mais minhas habilidades e contribuir de forma significativa para projetos inspiradores. Se você quiser se conectar ou discutir ideias, estou à disposição!
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/robert_frontdeveloper) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/robert-ferreira-/) 
- 
+</p>
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)  ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=robertferrei&theme=vue&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=robertferrei&theme=vue&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=robertferrei&theme=vue&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="left"><br>
+  <a href="mailto:contato.robertferreiramaia20@gmail.com" alt="Gmail">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=robertferrei&limit=5&theme=onedark&combine_all_yearly_contributions=true)
+  <a href="https://www.linkedin.com/in/robert-ferreira-/" alt="Linkedin">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
----
-[![](https://visitcount.itsvg.in/api?id=robertferrei&icon=2&color=1)](https://visitcount.itsvg.in)
+    
+  ## <br><br><br><br>
+  
+  <h3><strong>👨‍💻 Technologies:</strong></h3>
+  
+  <ul>
+    <li>
+      <p>Back-End:</p>
+        <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=php,laravel,mysql,postman,ruby,rails,python,kotlin" />
+  </a>
+    </li>
+       <li>
+    <p>Tools and platforms:</p>
+        <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,figma,linux,vscode" />
+  </a>
+    </li>
+    <li>
+    <p>Others:</p>
+        <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,react,html,css,fastapi" />
+  </a>
+    </li>
+</ul>
+  
+##
+<h3>📈 My Stats:</h3>
+
+| Statistics                                                                                                                                                          | Most used languages                                                                                                                                                                   |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![Umutambyi Gad's github stats](https://github-readme-stats.vercel.app/api?username=robertferrei&theme=vue&hide_border=false&include_all_commits=false&count_private=false) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=robertferrei&theme=vue&hide_border=false&include_all_commits=false&count_private=false&layout=compact) |
+
 
 
 
