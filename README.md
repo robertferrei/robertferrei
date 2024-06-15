@@ -13,7 +13,7 @@ Estou sempre aberto a novas oportunidades e colaborações que possam me ajudar 
 </p>
 
 <p align="left"><br>
-  <a href="mailto:contato.robertferreiramaia20@gmail.com" alt="Gmail">
+  <a href="mailto:robertferreiramaia20@gmail.com" alt="Gmail">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
   <a href="https://www.linkedin.com/in/robert-ferreira-/" alt="Linkedin">
