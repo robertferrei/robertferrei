@@ -1,4 +1,6 @@
 
+<img src="https://github.com/robertferrei/robertferrei/assets/126025896/5b40e390-62cb-42fd-a83e-0815a00df2ec)" min-width="270px" max-width="400px" width="270px" align="right" alt="Computador iuriCode">
+
 <p align="left"> 
  Olá! Eu sou Robert, tenho 19 anos e trabalho como freelancer, o que me permite mergulhar em uma variedade de projetos emocionantes e desafiadores. Meu foco atual está no desenvolvimento das minhas habilidades em programação, uma paixão que cresce a cada dia e me motiva a buscar novas aprendizagens constantemente.
 
