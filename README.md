@@ -46,11 +46,22 @@ Estou sempre aberto a novas oportunidades e colaborações que possam me ajudar 
 </ul>
   
 ##
+[![](https://visitcount.itsvg.in/api?id=robertFerrei&icon=0&color=0)](https://visitcount.itsvg.in)
 <h3>📈 My Stats:</h3>
 
 | Statistics                                                                                                                                                          | Most used languages                                                                                                                                                                   |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![Umutambyi Gad's github stats](https://github-readme-stats.vercel.app/api?username=robertferrei&theme=vue&hide_border=false&include_all_commits=false&count_private=false) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=robertferrei&theme=vue&hide_border=false&include_all_commits=false&count_private=false&layout=compact) |
+| ![Umutambyi Gad's github stats](https://github-readme-stats.vercel.app/api?username=robertFerrei&theme=city_lights&hide_border=false&include_all_commits=true&count_private=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=robertFerrei&theme=city_lights&hide_border=false&include_all_commits=true&count_private=true&layout=compact) |
+
+
+
+---
+
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+
 
 
 
