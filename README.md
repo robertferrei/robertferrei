@@ -51,9 +51,14 @@ Estou sempre aberto a novas oportunidades e colaborações que possam me ajudar 
 
 | Statistics                                                                                                                                                          | Most used languages                                                                                                                                                                   |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![Umutambyi Gad's github stats](https://github-readme-stats.vercel.app/api?username=robertFerrei&theme=city_lights&hide_border=false&include_all_commits=true&count_private=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=robertFerrei&theme=city_lights&hide_border=false&include_all_commits=true&count_private=true&layout=compact) |
+| ![Umutambyi Gad's github stats](https://github-readme-stats.vercel.app/api?username=robertFerrei&theme=dark&hide_border=false&include_all_commits=true&count_private=false) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=robertFerrei&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact) |
 
 
+
+
+ 
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ---
 
