@@ -4,7 +4,6 @@
 <p align="left"> 
  Olá! Eu sou Robert, tenho 19 anos e trabalho como freelancer, o que me permite mergulhar em uma variedade de projetos emocionantes e desafiadores. Meu foco atual está no desenvolvimento das minhas habilidades em programação, uma paixão que cresce a cada dia e me motiva a buscar novas aprendizagens constantemente.
 
-Além disso, tenho o prazer de atuar como desenvolvedor Back-End na CSM Betha, onde contribuo para projetos inovadores e continuo a aperfeiçoar minhas competências técnicas. Esta experiência me proporciona um ambiente estimulante para aplicar e expandir meu conhecimento em tempo real.
 
 Sou movido pela curiosidade e pelo desejo de evoluir continuamente, sempre explorando novas tecnologias e metodologias. Meu objetivo é integrar o aprendizado teórico com a prática, enfrentando desafios que me permitam crescer profissional e pessoalmente.
 
