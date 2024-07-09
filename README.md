@@ -39,7 +39,7 @@ Estou sempre aberto a novas oportunidades e colaborações que possam me ajudar 
     <li>
     <p>Others:</p>
         <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,react,html,css,fastapi" />
+    <img src="https://skillicons.dev/icons?i=js,react,html,css,fastapi,vue" />
   </a>
     </li>
 </ul>
