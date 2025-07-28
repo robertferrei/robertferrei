@@ -2,13 +2,15 @@
 <img src="https://github.com/robertferrei/robertferrei/assets/126025896/5b40e390-62cb-42fd-a83e-0815a00df2ec)" min-width="270px" max-width="400px" width="270px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
- Olá! Eu sou Robert, tenho 19 anos e trabalho como freelancer, o que me permite mergulhar em uma variedade de projetos emocionantes e desafiadores. Meu foco atual está no desenvolvimento das minhas habilidades em programação, uma paixão que cresce a cada dia e me motiva a buscar novas aprendizagens constantemente.
+Sou desenvolvedor Full Stack com foco principal em Back-End, especializado em Python e com sólida experiência em Vue.js. Sou movido por desafios que exigem soluções eficientes, escaláveis e bem estruturadas, e tenho paixão por aprendizado contínuo e evolução técnica constante.
 
+Tenho perfil proativo e comprometido, com histórico comprovado de melhorias significativas em projetos — aumentando produtividade e lucratividade de clientes por meio de refatorações, automações, integrações inteligentes e aplicação de boas práticas de desenvolvimento.
 
-Sou movido pela curiosidade e pelo desejo de evoluir continuamente, sempre explorando novas tecnologias e metodologias. Meu objetivo é integrar o aprendizado teórico com a prática, enfrentando desafios que me permitam crescer profissional e pessoalmente.
+Valorizo a construção de sistemas robustos, seguros e sustentáveis, com código limpo, propósito claro e documentação técnica consistente. Também atuo ativamente na manutenção e evolução de projetos, garantindo alinhamento entre times e foco na qualidade a longo prazo.
 
-Estou sempre aberto a novas oportunidades e colaborações que possam me ajudar a desenvolver ainda mais minhas habilidades e contribuir de forma significativa para projetos inspiradores. Se você quiser se conectar ou discutir ideias, estou à disposição!
+Além disso, tenho experiência com sistemas legados e sem documentação, o que desenvolveu em mim um forte senso investigativo e autonomia na análise de código, facilitando a compreensão de estruturas complexas e promovendo melhorias sem comprometer a estabilidade.
 
+Estou sempre aberto a projetos desafiadores e inteligentes, que priorizem a qualidade, a inovação e que tenham impacto real por meio da tecnologia.
 </p>
 
 <p align="left"><br>
